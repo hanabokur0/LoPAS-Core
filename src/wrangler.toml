@@ -1,0 +1,7 @@
+name = "lopas-core"
+main = "src/index.ts"
+compatibility_date = "2024-09-01"
+
+# ↓ これは後で必要になる
+[observability]
+enabled = true
